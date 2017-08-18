@@ -1,0 +1,24 @@
+c:\users\casa\documents\visual studio 2015\Projects\DYNAMICS\DYNAMICS.UI\bin\Debug\DYNAMICS.UI.exe.config
+c:\users\casa\documents\visual studio 2015\Projects\DYNAMICS\DYNAMICS.UI\bin\Debug\DYNAMICS.UI.exe
+c:\users\casa\documents\visual studio 2015\Projects\DYNAMICS\DYNAMICS.UI\bin\Debug\DYNAMICS.UI.pdb
+c:\users\casa\documents\visual studio 2015\Projects\DYNAMICS\DYNAMICS.UI\obj\Debug\DYNAMICS.UI.csprojResolveAssemblyReference.cache
+c:\users\casa\documents\visual studio 2015\Projects\DYNAMICS\DYNAMICS.UI\obj\Debug\DYNAMICS.UI.Properties.Resources.resources
+c:\users\casa\documents\visual studio 2015\Projects\DYNAMICS\DYNAMICS.UI\obj\Debug\DYNAMICS.UI.csproj.GenerateResource.Cache
+c:\users\casa\documents\visual studio 2015\Projects\DYNAMICS\DYNAMICS.UI\obj\Debug\DYNAMICS.UI.exe
+c:\users\casa\documents\visual studio 2015\Projects\DYNAMICS\DYNAMICS.UI\obj\Debug\DYNAMICS.UI.pdb
+c:\users\casa\documents\visual studio 2015\Projects\DYNAMICS\DYNAMICS.UI\obj\Debug\DYNAMICS.UI.mantenimientoPrincipal.resources
+C:\Users\casa\Documents\Visual Studio 2015\Projects\DYNAMICS\DYNAMICS.UI\bin\Debug\DYNAMICS.BE.dll
+C:\Users\casa\Documents\Visual Studio 2015\Projects\DYNAMICS\DYNAMICS.UI\bin\Debug\DYNAMICS.BS.dll
+C:\Users\casa\Documents\Visual Studio 2015\Projects\DYNAMICS\DYNAMICS.UI\bin\Debug\DYNAMICS.DS.dll
+C:\Users\casa\Documents\Visual Studio 2015\Projects\DYNAMICS\DYNAMICS.UI\bin\Debug\DYNAMICS.BE.pdb
+C:\Users\casa\Documents\Visual Studio 2015\Projects\DYNAMICS\DYNAMICS.UI\bin\Debug\DYNAMICS.BS.pdb
+C:\Users\casa\Documents\Visual Studio 2015\Projects\DYNAMICS\DYNAMICS.UI\bin\Debug\DYNAMICS.DS.pdb
+C:\Users\casa\Documents\Visual Studio 2015\Projects\DYNAMICS\DYNAMICS.UI\obj\Debug\DYNAMICS.UI.inicioSesion.resources
+C:\Users\casa\Documents\Visual Studio 2015\Projects\DYNAMICS\DYNAMICS.UI\obj\Debug\DYNAMICS.UI.mantenimientoCliente.mantenimientoClienteAgregar.resources
+C:\Users\casa\Documents\Visual Studio 2015\Projects\DYNAMICS\DYNAMICS.UI\obj\Debug\DYNAMICS.UI.mantenimientoCliente.mantenimientoClientePrincipal.resources
+C:\Users\casa\Documents\Visual Studio 2015\Projects\DYNAMICS\DYNAMICS.UI\obj\Debug\DYNAMICS.UI.mantenimientoCliente.mantenimientoClienteEditar.resources
+C:\Users\casa\Documents\Visual Studio 2015\Projects\DYNAMICS\DYNAMICS.UI\obj\Debug\DYNAMICS.UI.mantenimientoCliente.mantenimientoClienteFiltroNombre.resources
+C:\Users\casa\Documents\Visual Studio 2015\Projects\DYNAMICS\DYNAMICS.UI\obj\Debug\DYNAMICS.UI.mantenimientoCliente.mantenimientoClienteFiltroApellido.resources
+C:\Users\casa\Desktop\GitHub\DYNAMICS\DYNAMICS.UI\bin\Debug\DYNAMICS.UI.exe.config
+C:\Users\casa\Desktop\GitHub\DYNAMICS\DYNAMICS.UI\obj\Debug\DYNAMICS.UI.exe
+C:\Users\casa\Desktop\GitHub\DYNAMICS\DYNAMICS.UI\obj\Debug\DYNAMICS.UI.pdb

@@ -1,0 +1,8 @@
+c:\users\casa\documents\visual studio 2015\Projects\DYNAMICS\DYNAMICS.DS\bin\Debug\DYNAMICS.DS.dll
+c:\users\casa\documents\visual studio 2015\Projects\DYNAMICS\DYNAMICS.DS\bin\Debug\DYNAMICS.DS.pdb
+c:\users\casa\documents\visual studio 2015\Projects\DYNAMICS\DYNAMICS.DS\obj\Debug\DYNAMICS.DS.csprojResolveAssemblyReference.cache
+c:\users\casa\documents\visual studio 2015\Projects\DYNAMICS\DYNAMICS.DS\obj\Debug\DYNAMICS.DS.dll
+c:\users\casa\documents\visual studio 2015\Projects\DYNAMICS\DYNAMICS.DS\obj\Debug\DYNAMICS.DS.pdb
+C:\Users\casa\Documents\Visual Studio 2015\Projects\DYNAMICS\DYNAMICS.DS\bin\Debug\DYNAMICS.DS.dll.config
+C:\Users\casa\Documents\Visual Studio 2015\Projects\DYNAMICS\DYNAMICS.DS\bin\Debug\DYNAMICS.BE.dll
+C:\Users\casa\Documents\Visual Studio 2015\Projects\DYNAMICS\DYNAMICS.DS\bin\Debug\DYNAMICS.BE.pdb
